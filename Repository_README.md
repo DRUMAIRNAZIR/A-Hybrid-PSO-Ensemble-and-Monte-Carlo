@@ -73,4 +73,4 @@ Code: MIT License. Processed data: CC BY 4.0. ERA5 data are provided under the C
 
 ## 7. Citation
 
-Please cite the article and this repository: [[Zenodo DOI, added after upload].](https://github.com/DRUMAIRNAZIR/A-Hybrid-PSO-Ensemble-and-Monte-Carlo) 
+Please cite the article and this repository: (https://github.com/DRUMAIRNAZIR/A-Hybrid-PSO-Ensemble-and-Monte-Carlo) 
